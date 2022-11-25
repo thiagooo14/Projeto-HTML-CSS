@@ -16,9 +16,9 @@ Lembre-se de verificar sua página no [achecker](https://achecker.ca/checker/ind
 
 ### 1 - O corpo da página deve possuir uma cor (diferente da cor branca) como cor de fundo
 
-### 2 - A página deve possuir uma barra superior fixa com o ID "cabecalho"
+### 2 - A página deve possuir um Header
 
-### 3 - A página deve possuir um rodapé com o ID "rodape"
+### 3 - A página deve possuir um Footer
 
 ### 4 - A página deve possuir pelo menos uma imagem criada com a tag "img"
 
